@@ -19,4 +19,6 @@ The Computational Methods Laboratory allows students to perform computer aided m
 access the repo on your desktop only
 1.git clone url https
 
-
+1.opne the CMD
+2.git clone https://github.com/Dynamos3144/Computatinal_lab.git
+3.access the file and folder.....
